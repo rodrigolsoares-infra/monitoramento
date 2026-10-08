@@ -95,6 +95,10 @@ Um dos maiores diferenciais deste projeto foi o diagnóstico e a solução de pr
   <img src="./assets/03-dashboard-grafana-mon-01.png" alt="03-dashboard-grafana-mon-01.png" width="400"><br>
   <i>📷 Evidência 3: Configurados os Dashboards de monitorização do servidor MON-01</i>
 </p>
+<p align="center">
+  <img src="./assets/04-tela-erro-win.png" alt="04-tela-erro-win.png" width="400"><br>
+  <i>📷 Evidência 4: Falha de memória no Windows devido ao driver de rede virtual no hyper-V </i>
+</p>
 ---
 
 > 📝 *Projeto desenvolvido como parte do laboratório prático de estudos em infraestrutura, redes e monitoramento de TI.*
