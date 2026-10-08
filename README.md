@@ -96,7 +96,7 @@ Um dos maiores diferenciais deste projeto foi o diagnóstico e a solução de pr
   <i>📷 Evidência 3: Configurados os Dashboards de monitorização do servidor MON-01</i>
 </p>
 <p align="center">
-  <img src="./assets/04-tela-erro-win.png" alt="04-tela-erro-win.png" width="400"><br>
+  <img src="./assets/04-tela-erro-win.png" alt="04-tela-erro-win.jpeg" width="400"><br>
   <i>📷 Evidência 4: Falha de memória no Windows devido ao driver de rede virtual no hyper-V </i>
 </p>
 
