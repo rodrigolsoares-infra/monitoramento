@@ -98,5 +98,3 @@ Um dos maiores diferenciais deste projeto foi o diagnóstico e a solução de pr
 ---
 
 > 📝 *Projeto desenvolvido como parte do laboratório prático de estudos em infraestrutura, redes e monitoramento de TI.*
-
-```
