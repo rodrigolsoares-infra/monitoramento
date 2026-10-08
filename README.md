@@ -81,7 +81,7 @@ Um dos maiores diferenciais deste projeto foi o diagnóstico e a solução de pr
 * Criação de regras de alerta visual (**Thresholds**) e centralização de chamados/eventos NOC.
 * Resolução autonôma de problemas em infraestrutura híbrida (Linux/Windows/Redes).
 
-## 📷 Evidencias do Laboratório:
+## 📷 Evidências do Laboratório:
 
 <p align="center">
   <img src="./assets/01-win-ssh-debian-install-zabbix.png" alt="01-win-ssh-debian-install-zabbix.png" width="400"><br>
